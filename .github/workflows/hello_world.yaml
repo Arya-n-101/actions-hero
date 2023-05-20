@@ -18,8 +18,8 @@ jobs:
         run: echo "Hello World"
         shell: bash
 
-goodbye:
-    runs-on: ubuntu-latest
+ goodbye:
+     runs-on: ubuntu-latest
     steps:
       - name: goodbye World
         run: echo "goodbye world"\
